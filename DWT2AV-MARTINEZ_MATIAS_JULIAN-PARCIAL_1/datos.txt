@@ -1,0 +1,11 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Interacción con Dispositivos Móviles
+TRABAJO PRÁCTICO: Examen Parcial 1
+PROFESOR: D’Addezio Alejandro
+ALUMNO: Matias Julian Martinez
+CUATRIMESTRE: 1er Cuatrimestre
+COMISIÓN: DWT2AV
+TURNO: Tarde
+FECHA DE ENTREGA: 08/05/2024
+URL DEL SITIO: https://phenomenal-queijadas-6350e0.netlify.app
